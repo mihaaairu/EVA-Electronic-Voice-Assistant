@@ -1,0 +1,7 @@
+{
+  "API": {
+    "open_api": "enter_open_tinkoff_key",
+    "secret_api": "enter_secret_tinkoff_key"
+  },
+  "VOICE": "alyona"
+}
