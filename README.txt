@@ -20,6 +20,3 @@
 7) В папке EVA\user_interface распакуйте архив icons.zip.
 
 
-
-![Chat](https://user-images.githubusercontent.com/78261302/176162777-a2875b90-aace-41ea-bf6a-b0de8ef1dd3d.png)
-![Settings](https://user-images.githubusercontent.com/78261302/176162779-fb394309-bc33-4613-be30-9e18e0704003.png)
