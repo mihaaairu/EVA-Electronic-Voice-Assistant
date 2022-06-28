@@ -18,3 +18,8 @@
         https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip
 6) Распакуйте архив в папку 'EVA\back_end' и присвойте распакованной папке имя 'vosk_small_model_ru'.
 7) В папке EVA\user_interface распакуйте архив icons.zip.
+
+
+
+![Chat](https://user-images.githubusercontent.com/78261302/176162777-a2875b90-aace-41ea-bf6a-b0de8ef1dd3d.png)
+![Settings](https://user-images.githubusercontent.com/78261302/176162779-fb394309-bc33-4613-be30-9e18e0704003.png)
