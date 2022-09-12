@@ -21,6 +21,7 @@
 7) В папке EVA\user_interface распакуйте архив icons.zip.
 
 
+Демонстрация работоспособности системы: https://youtu.be/fySAufW8Gqk
 
 
 Окна чата с ассистентом.
