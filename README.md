@@ -15,7 +15,7 @@ EVA - Electronic Vocie Assistant
 **4) Установите библиотеку 'PyAudio' с помощью модуля 'pipwin', установленного на шаге 3.**
         
         pipwin install PyAudio
-**5) Скачайте [архив с голосовой моделью VOSK](https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip)**
+**5) Скачайте [архив с голосовой моделью VOSK](https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip).**
         
 **6) Распакуйте архив в папку 'EVA\back_end' и присвойте распакованной папке имя 'vosk_small_model_ru'.**
 
