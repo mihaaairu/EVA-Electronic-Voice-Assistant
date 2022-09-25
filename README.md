@@ -3,7 +3,6 @@
 
 
 1) Для установки необходимых библиотек (зависимостей), создайте виртуальное окружение.
-        
         python -m venv venv
 2) Активируйте виртуальное окружение.
     
@@ -19,6 +18,7 @@
         https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip
 6) Распакуйте архив в папку 'EVA\back_end' и присвойте распакованной папке имя 'vosk_small_model_ru'.
 7) В папке EVA\user_interface распакуйте архив icons.zip.
+
 
 
 
