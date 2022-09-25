@@ -3,28 +3,18 @@
 
 
 1) Для установки необходимых библиотек (зависимостей), создайте виртуальное окружение.
-    
-    Команда:
         
         python -m venv venv
 2) Активируйте виртуальное окружение.
     
-    Команда:
-    
         venv\Scripts\activate
 3) Установите зависимости.
-    
-    Команда:
         
         pip install -r requirements.txt
 4) Установите библиотеку 'PyAudio' с помощью модуля 'pipwin', установленного на шаге 3.
-    
-    Команда:
         
         pipwin install PyAudio
 5) Скачайте архив с голосовой моделью VOSK
-    
-    Ссылка: 
         
         https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip
 6) Распакуйте архив в папку 'EVA\back_end' и присвойте распакованной папке имя 'vosk_small_model_ru'.
@@ -33,8 +23,7 @@
 
 
 Демонстрация работоспособности системы: 
-    Ссылка: 
-        
+
         https://youtu.be/fySAufW8Gqk
 
 
